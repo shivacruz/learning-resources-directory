@@ -24,10 +24,6 @@ The aim is to make it easier for individuals to explore, find, and access the be
 - **Grid & List View**: Switch between different layouts for easy navigation.  
 - **Regular Updates**: Click "Refresh Data" to get the latest resources.
 
-## Live Demo
-
-Visit: [Educational Resources Directory](https://your-website-link.com)
-
 ## Tech Stack
 
 - HTML
