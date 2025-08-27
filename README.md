@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or want to collaborate:
 - **Website**: [Skillunlock.net](https://skillunlock.net/learning-resources/)
-- **Email**: your-email@example.com
+- **Email**: skillunlock.org@gmail.com
 
 ---
 
